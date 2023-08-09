@@ -26,12 +26,23 @@ You can drag 1 or more .MHT files in the tool. Dragging in a folder that contain
 There's a guide here: https://perfectwikiforteams.com/blog/options-to-export-content-from-ms-teams-wiki/
 
 ##A short written out guide:
-###Step 1: Go to the Teams channel of which you want the Wiki files
-###Step 2: Go to the "Files" tab
-###Step 3: Press on the 3 dots "..." in the bar where you see the options such as New, Upload, Share, Copy link...
-###Step 4: Press the "Open in Sharepoint" button
-###Step 5: On the left side, click "Site contents"
-###Step 6: Choose "Teams Wiki Data"
+###Step 1: 
+Go to the Teams channel of which you want the Wiki files.
+
+###Step 2: 
+Go to the "Files" tab.
+
+###Step 3: 
+Press on the 3 dots "..." in the bar where you see the options such as New, Upload, Share, Copy link...
+
+###Step 4: 
+Press the "Open in Sharepoint" button.
+
+###Step 5: 
+On the left side, click "Site contents".
+
+###Step 6: 
+Choose "Teams Wiki Data"
 In there you can find all the folders of your channels that contain Wiki files. You can then download them all, extract them and convert them with this tool. 
 
 ###Disclaimer
