@@ -26,4 +26,4 @@ Python is not my primary coding language so it could probable be improved. If yo
 
 The .exe file was made using pyinstaller. It my get flagged as a virus since I didn't sign it with a developer license. 
 The command to create a .exe from the run.py file (that I used) is: `python -m PyInstaller --onefile --noconsole -F --collect-all tkinterdnd2 run.py` Please note that this requires you to have the package PyInstaller.
-In case you don't trust a random .exe from the internet (which you shouldn't), here's a VirusTotal scan of it: [https://www.virustotal.com/gui/file/5d59a297a26af74cc3bb22787236056f596dac53af850118a7b48c602df23b6e/detection]: https://www.virustotal.com/gui/file/5d59a297a26af74cc3bb22787236056f596dac53af850118a7b48c602df23b6e/detection
+In case you don't trust a random .exe from the internet (which you shouldn't), here's a VirusTotal scan of it: https://www.virustotal.com/gui/file/5d59a297a26af74cc3bb22787236056f596dac53af850118a7b48c602df23b6e/detection
