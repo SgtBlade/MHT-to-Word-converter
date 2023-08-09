@@ -34,9 +34,6 @@ There's a guide here: https://perfectwikiforteams.com/blog/options-to-export-con
 ###Step 6: Choose "Teams Wiki Data"
 In there you can find all the folders of your channels that contain Wiki files. You can then download them all, extract them and convert them with this tool. 
 
-
-
-
 ###Disclaimer
 Python is not my primary coding language so it could probable be improved. If you have any suggestions, feel free to let me know. 
 
